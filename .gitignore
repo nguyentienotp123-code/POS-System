@@ -32,3 +32,13 @@ google-services.json
 
 # Android Profiling
 *.hprof
+# ---- NODE.JS ----
+backend/node_modules/
+backend/.env
+
+# ---- ANDROID ----
+android-app/build/
+android-app/app/build/
+android-app/.gradle/
+android-app/.idea/
+android-app/local.properties
